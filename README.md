@@ -1,6 +1,7 @@
 # Mini-Proyecto-Dashboard-Personal
 Análisis de Canciones Más Escuchadas en Spotify 2024
 
+
 Descripción
 Este proyecto analiza las canciones más escuchadas en Spotify durante 2024.
 Se estudian métricas como streams, popularidad, playlists y vistas en YouTube para ver tendencias y relaciones entre variables.
