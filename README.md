@@ -1,13 +1,17 @@
 # Mini-Proyecto-Dashboard-Personal
-Análisis de Canciones Más Escuchadas en Spotify 2024
+
+**Análisis de Canciones Más Escuchadas en Spotify 2024**
 
 
-Descripción
+**Descripción**
+
 Este proyecto analiza las canciones más escuchadas en Spotify durante 2024.
+
 Se estudian métricas como streams, popularidad, playlists y vistas en YouTube para ver tendencias y relaciones entre variables.
 
 
-###Dataset
+**Dataset**
+
 Se utilizó el dataset Most_Streamed_Spotify_Songs_2024 de Kaggle, con columnas principales:
 
 -Track
@@ -41,7 +45,8 @@ Se utilizó el dataset Most_Streamed_Spotify_Songs_2024 de Kaggle, con columnas 
 -Shazam Counts
 
 
-###Pasos realizados
+**Pasos realizados**
+
 -Limpieza de datos (relleno de nulos y eliminación de columnas irrelevantes)
 
 -Estadísticas generales y exploración de datos
@@ -55,7 +60,8 @@ Se utilizó el dataset Most_Streamed_Spotify_Songs_2024 de Kaggle, con columnas 
 -Documentación de insights importantes en Markdown
 
 
-###Gráficos
+**Gráficos**
+
 -Promedio de Spotify Streams por año
 
 -Relación entre Popularidad y Spotify Streams
@@ -67,16 +73,20 @@ Se utilizó el dataset Most_Streamed_Spotify_Songs_2024 de Kaggle, con columnas 
 -Relación entre YouTube Views y YouTube Likes a través de los años
 
 
-###Cómo usar
-Abrir el notebook en Google Colab.
+**Cómo usar**
 
-Ejecutar las celdas en orden.
+-Abrir el notebook en Google Colab.
 
-Los gráficos se guardarán automáticamente en PNG.
+-Ejecutar las celdas en orden.
 
-Requisitos
-Python 3.x
-Librerías: pandas, matplotlib, seaborn, numpy
+-Los gráficos se guardarán automáticamente en PNG.
 
-Conclusión
+**Requisitos**
+
+-Python 3.x
+
+-Librerías: pandas, matplotlib, seaborn, numpy
+
+**Conclusión**
+
 El análisis permite ver tendencias de popularidad y consumo de música, así como relaciones entre distintas métricas de streaming en varias plataformas.
